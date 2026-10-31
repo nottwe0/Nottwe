@@ -1,0 +1,6 @@
+{
+  "name": "Koralina in Seoul: Insaengnecut 17s Vlog",
+  "description": "A 17-second 9:16 vertical lifestyle vlog by Slavic creator Koralina showcasing Insaengnecut (인생네컷) photo booths in Seoul, with warm voice-over and social media interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
