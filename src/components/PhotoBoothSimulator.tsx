@@ -14,26 +14,26 @@ const PRESET_POSES: SimulatorPose[] = [
   {
     id: 1,
     label: 'Hongdae Arrival',
-    sub: 'Koralina outside Insaengnecut',
-    image: '/src/assets/images/scene1_koralina_street_hook_1792391949048.jpg',
+    sub: 'Outside Insaengnecut booth',
+    image: '/images/scene1_street_booth.jpg',
   },
   {
     id: 2,
     label: 'Bunny & Heart Shades',
     sub: 'Ring light double V-sign',
-    image: '/src/assets/images/scene2_koralina_booth_explain_1792391950686.jpg',
+    image: '/images/scene2_photobooth_inside.jpg',
   },
   {
     id: 3,
-    label: 'Bestie Laughs',
+    label: 'Bestie Studio Laughs',
     sub: 'Fun candid booth moment',
-    image: '/src/assets/images/scene2_koralina_booth_explain_1792391950686.jpg',
+    image: '/images/scene2_minji_inside.jpg',
   },
   {
     id: 4,
     label: 'Fresh Printed Strip',
     sub: 'Life 4-cut physical keepsake',
-    image: '/src/assets/images/scene3_koralina_strip_close_1792391951712.jpg',
+    image: '/images/scene3_photostrip_printed.jpg',
   },
 ];
 
